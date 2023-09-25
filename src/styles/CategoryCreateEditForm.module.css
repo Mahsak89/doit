@@ -1,0 +1,16 @@
+.Container {
+    min-height: 250px;
+    max-width: 70%;
+  }
+
+.Header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #2142b2;
+  }
+
